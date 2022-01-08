@@ -1,5 +1,6 @@
 ## Gathering via Food
 
+[back](https://xingezhang.netlify.app/)
 ### Introduction
 
 The lack of spending power has led to food deserts, and many regions have been unable to attract investment from big sellers. There are also areas with large amounts of agricultural land, but they are in the midst of a food crisis because of the industrial monocultany and supply chain dependence. The government and many nonprofits are stepping in to bring local ingredients and fresh food back to the population to ensure freshness while reducing traffic pollution and consumption. But Latinos in Piedmont still have their food crisis due to identity and resourse distribution.
@@ -75,3 +76,4 @@ ___
 <br>[3] DESERT FARE:
 https://thephiladelphiacitizen.org/fare-square-chester-pa/
 
+[back](https://xingezhang.netlify.app/)
